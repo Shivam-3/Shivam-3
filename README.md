@@ -5,6 +5,9 @@
 <a href="https://leetcode.com/shivamjain030903/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="hrishabhcodes" height="33"  /></a>
 </p>
 
+<p align="center">
+  <img width=48% src="https://github-readme-stats.vercel.app/api?username=Shivam-3&show_icons=true&theme=tokyonight" />
+ </p>
 <!--
 **Shivam-3/Shivam-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
